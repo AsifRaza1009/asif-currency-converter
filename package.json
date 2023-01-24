@@ -1,0 +1,32 @@
+{
+  "name": "asif-currency-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "type": "module",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsifRaza1009/asif-currency-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsifRaza1009/asif-currency-converter/issues"
+  },
+  "homepage": "https://github.com/AsifRaza1009/asif-currency-converter#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3"
+  }
+}
